@@ -15,3 +15,4 @@ MC-50769 – Mooshrooms incorrectly display custom mushroom models
 MC-73866 – Game crash when an item is thrown into a nether portal
 MC-76650 – Glass Pane image flipped
 Bogue visuel quand on prend une flèche par terre.
+test
