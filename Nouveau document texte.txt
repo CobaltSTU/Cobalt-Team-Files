@@ -1,0 +1,17 @@
+MC-6594 – Non-living entities (boats, minecarts, falling sand, item frames, paintings) drop items even if doTileDrops is set to false
+MC-10808 – Sprinting and breaking particles of piston arms use same particles as piston even though there is no stone on the arms
+MC-37782 – Items held by witches are too small and held wrongly
+MC-38372 – Sprint glitch
+MC-45537 – Cannot place buttons under stairs or slabs, or on top of upside down stairs or slabs
+MC-46579 – Items are too high up on the arm in 3rd person mode while sneaking(Already fixed)
+MC-52717 – Placing heads / skulls break existing blocks (Unable to reproduce.)
+MC-58568 – Item frames with items in them do not frustum culling properly causing sevre FPS lag
+MC-61640 – Snow layers can't be placed on top of another full snow layer block
+MC-62758 – Tall flowers drop two items when block below is broken(CE BUG ÉTAIT LE PLUS ÉNERVANT A CORRIGER!)
+MC-70054 – Rabbits don't follow players holding golden carrots or dandelions
+MC-46455 – If you switch gamemode while inside a block or mob, you glitch inside it
+MC-49704 – Mooshroom udder texture does not display correctly
+MC-50769 – Mooshrooms incorrectly display custom mushroom models
+MC-73866 – Game crash when an item is thrown into a nether portal
+MC-76650 – Glass Pane image flipped
+Bogue visuel quand on prend une flèche par terre.
